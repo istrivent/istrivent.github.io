@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://istrivent.github.io/sitemap.html.gz
+Sitemap: https://istrivent.github.io/app/sitemap.html.gz
+Sitemap: https://istrivent.github.io/assets/sitemap.html.gz
+Sitemap: https://istrivent.github.io/css/sitemap.html.gz
+Sitemap: https://istrivent.github.io/includes/sitemap.html.gz
+Sitemap: https://istrivent.github.io/item/sitemap.html.gz
+Sitemap: https://istrivent.github.io/src/sitemap.html.gz
